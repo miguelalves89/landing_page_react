@@ -9,3 +9,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.navbar {
+    background-color: #32373d !important;
+}
